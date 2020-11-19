@@ -25,7 +25,7 @@
 		  "xcode_settings": {
 			"OTHER_CPLUSPLUSFLAGS":[
 			  "-mmacosx-version-min=10.7",
-			  "-std=c++11",
+			  "-std=c++14",
 			  "-stdlib=libc++",
               "-DLOGGING_LEVEL=LL_WARNING",
 			]
